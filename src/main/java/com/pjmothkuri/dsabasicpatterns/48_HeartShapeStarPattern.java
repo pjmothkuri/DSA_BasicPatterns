@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class HeartShapeStarPattern {
 
     public static void heartShape() {

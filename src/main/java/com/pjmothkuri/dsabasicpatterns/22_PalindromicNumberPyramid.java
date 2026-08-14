@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class PalindromicNumberPyramid {
 
     public static void palindromicPyramid(int n) {

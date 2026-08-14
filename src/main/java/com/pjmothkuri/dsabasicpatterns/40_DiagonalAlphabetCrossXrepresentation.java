@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class DiagonalAlphabetCrossXrepresentation {
 
     public static void diagonalCharCross(int n) {

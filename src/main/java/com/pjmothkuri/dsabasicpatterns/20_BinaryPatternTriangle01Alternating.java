@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class BinaryPatternTriangle01Alternating {
 
     public static void binaryTriangle(int n) {

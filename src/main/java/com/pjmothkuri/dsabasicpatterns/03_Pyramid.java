@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class Pyramid {
 
     public static void pyramid(int n) {

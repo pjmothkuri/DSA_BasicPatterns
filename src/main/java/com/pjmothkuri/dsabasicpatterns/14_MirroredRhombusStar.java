@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class MirroredRhombusStar {
 
     public static void mirroredRhombus(int n) {

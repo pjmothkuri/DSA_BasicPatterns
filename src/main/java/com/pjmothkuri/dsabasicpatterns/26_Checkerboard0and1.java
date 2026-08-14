@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class Checkerboard0and1 {
 
     public static void checkerboard(int rows, int cols) {

@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class ContinuousAlphabetSquare {
 
     public static void charContinuousSquare(int n) {

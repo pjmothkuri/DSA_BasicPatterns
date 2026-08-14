@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class HourglassStar {
 
     public static void hourglass(int n) {

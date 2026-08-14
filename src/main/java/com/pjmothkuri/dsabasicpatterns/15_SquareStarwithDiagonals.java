@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class SquareStarwithDiagonals {
 
     public static void squareDiagonals(int n) {

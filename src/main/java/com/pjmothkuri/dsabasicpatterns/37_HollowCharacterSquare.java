@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class HollowCharacterSquare {
 
     public static void hollowCharSquare(int n) {

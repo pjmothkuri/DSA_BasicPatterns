@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class HollowDiamondStar {
 
     public static void hollowDiamond(int n) {

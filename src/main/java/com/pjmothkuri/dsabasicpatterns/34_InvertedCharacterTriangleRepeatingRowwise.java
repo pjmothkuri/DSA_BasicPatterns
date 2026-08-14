@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class InvertedCharacterTriangleRepeatingRowwise {
 
     public static void invertedCharTriangle(int n) {

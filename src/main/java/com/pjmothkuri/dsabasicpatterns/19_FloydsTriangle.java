@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class FloydsTriangle {
 
     public static void floydsTriangle(int n) {

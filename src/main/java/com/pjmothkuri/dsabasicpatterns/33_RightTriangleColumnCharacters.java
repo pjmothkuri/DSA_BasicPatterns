@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class RightTriangleColumnCharacters {
 
     public static void charColTriangle(int n) {

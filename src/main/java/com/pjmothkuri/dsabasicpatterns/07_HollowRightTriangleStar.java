@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class HollowRightTriangleStar {
 
     public static void hollowRightTriangle(int n) {

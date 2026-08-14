@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class CrossSymbolPatternX {
 
     public static void crossSymbol(int n) {

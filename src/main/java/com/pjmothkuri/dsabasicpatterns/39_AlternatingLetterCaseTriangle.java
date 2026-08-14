@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class AlternatingLetterCaseTriangle {
 
     public static void alternatingCaseTriangle(int n) {

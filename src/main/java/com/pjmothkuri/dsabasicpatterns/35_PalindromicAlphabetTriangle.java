@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class PalindromicAlphabetTriangle {
 
     public static void palindromicCharTriangle(int n) {

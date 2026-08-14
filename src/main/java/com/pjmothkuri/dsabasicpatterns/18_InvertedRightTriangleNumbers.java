@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class InvertedRightTriangleNumbers {
 
     public static void invertedNumberTriangle(int n) {

@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class CenteredNumberPyramid {
 
     public static void centeredNumberPyramid(int n) {

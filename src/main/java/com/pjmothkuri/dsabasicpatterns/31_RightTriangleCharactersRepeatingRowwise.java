@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class RightTriangleCharactersRepeatingRowwise {
 
     public static void charRowTriangle(int n) {

@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class RowCountingSquareGrid {
 
     public static void rowCountingGrid(int n) {

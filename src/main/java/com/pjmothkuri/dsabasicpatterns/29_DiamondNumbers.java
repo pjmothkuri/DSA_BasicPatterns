@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class DiamondNumbers {
 
     public static void diamondNumbers(int n) {

@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class HollowHourglassPattern {
 
     public static void hollowHourglass(int n) {

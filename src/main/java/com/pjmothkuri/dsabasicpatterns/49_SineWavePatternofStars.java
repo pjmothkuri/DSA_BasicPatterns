@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class SineWavePatternofStars {
 
     public static void sineWave(int cycles, int height) {

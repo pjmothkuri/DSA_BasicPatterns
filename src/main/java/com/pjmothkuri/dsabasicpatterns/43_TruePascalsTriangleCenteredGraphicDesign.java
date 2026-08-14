@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class TruePascalsTriangleCenteredGraphicDesign {
 
     public static void pascalsCenteredTriangle(int n) {

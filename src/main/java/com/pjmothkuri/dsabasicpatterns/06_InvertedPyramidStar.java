@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class InvertedPyramidStar {
 
     public static void invertedPyramid(int n) {

@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class ContinuousNumberSquareMatrix {
 
     public static void continuousSquare(int rows, int cols) {

@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class RightTriangleNumbersColwise {
 
     public static void numberColTriangle(int n) {

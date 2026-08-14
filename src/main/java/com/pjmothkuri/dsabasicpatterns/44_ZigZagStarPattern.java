@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class ZigZagStarPattern {
 
     public static void zigZag(int n) {

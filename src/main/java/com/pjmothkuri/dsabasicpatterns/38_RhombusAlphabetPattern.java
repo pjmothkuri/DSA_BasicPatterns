@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class RhombusAlphabetPattern {
 
     public static void rhombusAlphabet(int n) {

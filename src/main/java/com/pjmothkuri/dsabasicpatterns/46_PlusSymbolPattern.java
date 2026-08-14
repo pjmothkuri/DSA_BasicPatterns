@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class PlusSymbolPattern {
 
     public static void plusSymbol(int n) {

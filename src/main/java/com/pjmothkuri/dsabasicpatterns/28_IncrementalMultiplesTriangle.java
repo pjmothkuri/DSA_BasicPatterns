@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class IncrementalMultiplesTriangle {
 
     public static void incrementalMultiples(int n, int multiplier) {

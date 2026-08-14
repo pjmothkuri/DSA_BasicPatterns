@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class LeftArrowStarPattern {
 
     public static void leftArrow(int n) {

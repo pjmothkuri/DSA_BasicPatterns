@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class RhombusStar {
 
     public static void rhombus(int n) {

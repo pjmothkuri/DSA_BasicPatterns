@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class PascalsNumberTriangleBasicLeftAligned {
 
     public static void pascalsLeftTriangle(int n) {

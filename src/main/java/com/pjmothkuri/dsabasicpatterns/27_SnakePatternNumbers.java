@@ -1,3 +1,5 @@
+package com.pjmothkuri.dsabasicpatterns;
+
 public class SnakePatternNumbers {
 
     public static void snakePattern(int rows, int cols) {
